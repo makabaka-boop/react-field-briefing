@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+backend/field_briefing.db
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
